@@ -19,6 +19,9 @@ This lab demonstrates centralized security governance, logging, and monitoring i
 
 ## Screenshots
 
+### AWS Organizations - SCP Enabled
+![SCP](SCP_ENABLED.JPEG)
+
 ### S3 Bucket
 ![S3](Block_public_S3_access.JPEG)
 
