@@ -1,8 +1,8 @@
 # AWS Cloud Security Governance Lab
-> Buiilt a centralized AWS security governance and logging architecture using AWS Organizations, CloudTrail, Amazon S3, and Security Hub.
+> Designed and implemented a centralized AWS security governance and logging architecture using AWS Organizations, CloudTrail, Amazon S3, and Security Hub.
 
 ## Overview
-This lab demonstrates centralized security governance, logging, and monitoring in AWS. The goal was to simulate an enterprise cloud security environment.
+This project focuses on implementing security governance controls, audit logging, and secuirty visibility aligned with AWS secuirty best pratices.
 
 ## Architecture
 - AWS Organizations (SCP enabled)
@@ -34,7 +34,8 @@ This lab demonstrates centralized security governance, logging, and monitoring i
 Multi-account setup was simulated due to account creation issues. Core governance and monitoring concepts were still implemented.
 
 ## What This Demonstrates
-- AWS security governance
-- Centralized logging
-- Secure cloud architecture
-- Monitoring and detection
+- Centralized AWS security governance using AWS Organizations
+- Secure log storage and data protection using Amazon S3
+- Multi-region API activity tracking using AWS CloudTrail
+- Security monitoring and findings aggregation using AWS Security Hub
+- Ability to design and document cloud security architecture
