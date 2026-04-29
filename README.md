@@ -20,13 +20,13 @@ This lab demonstrates centralized security governance, logging, and monitoring i
 ## Screenshots
 
 ### S3 Bucket
-![S3](screenshots/s3-bucket.png)
+![S3](Block_public_S3_access.JPEG)
 
 ### CloudTrail Logging
-![CloudTrail](screenshots/cloudtrail.png)
+![CloudTrail](CloudTrail_created.JPEG)
 
 ### Security Hub
-![SecurityHub](screenshots/securityhub.png)
+![SecurityHub](SecurityHub_enabled_dashboard.jpg)
 
 ## Notes
 Multi-account setup was simulated due to account creation issues. Core governance and monitoring concepts were still implemented.
